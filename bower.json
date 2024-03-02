@@ -33,7 +33,7 @@
     "bootstrap": "^3.3.7",
     "css-element-queries": "^0.4.0",
     "font-awesome": "^4.7.0",
-    "jsplumb": "jsplumb/community-edition#9c65bd26cd0f730915356185e1497626b85dd104"
+    "jsplumb": "jsplumb/community-edition#9c65bd26cd0f730915356185e1497626b85dd104",
     "moment": "^2.18.1",
     "moment-range": "^3.0.3"
   }
